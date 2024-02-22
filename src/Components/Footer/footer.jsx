@@ -11,7 +11,7 @@ const footer = () => {
         alignItems: "center",
         textAlign: "center",
         position: "sticky",
-        bottom: "0",
+        top: "100%",
         marginTop: "3rem",
         width: "calc(100%)",
         background: "black",
